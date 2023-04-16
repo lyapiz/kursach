@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\User\Desktop\df\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(42): warning C4715: login: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> C:\Users\User\Desktop\df\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
